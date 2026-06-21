@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cowart Canvas Workflow"
+  short_description: "Open Cowart canvases and place generated images"
+  default_prompt: "Use $cowart-canvas-workflow to open the Cowart canvas and insert generated images into the project canvas."
